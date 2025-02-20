@@ -11,3 +11,10 @@ h1{
     background-color: pink;
 
 }
+
+
+.glow-text {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #ff00ff;
+    text-shadow: 0 0 5px #ff00ff, 0 0 10px #ff00ff, 0 0 15px #ff00ff;}
